@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+
+# Server/runtime files
+Servers/
+
+# Java compiled files
+*.class
+
+# Temporary files
+*.log
